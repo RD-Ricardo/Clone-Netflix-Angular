@@ -4,8 +4,11 @@
 🛠️ - Ferramentas Utilizadas:
 
 -Angular:https://angular.io/
+
 -Material:https://material.angular.io/components/icon/overview
+
 -Slick: https://kenwheeler.github.io/slick/
+
 -Sass: https://sass-lang.com/
 
 
