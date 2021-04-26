@@ -1,5 +1,5 @@
 # 01ProjectAngular
-🎥 - Projeto clone netfix front-end criando com Angular com API The MovieDB
+🎥 - Projeto clone netfix front-end criando com Angular e API The MovieDB
 
 🛠️ - Ferramentas Utilizadas:
 
