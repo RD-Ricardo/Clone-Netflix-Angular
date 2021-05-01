@@ -1,4 +1,4 @@
-# 01ProjectAngular
+# Clone Netflix em Angular
 🎥 - Projeto clone netfix front-end criando com Angular e API The MovieDB
 
 🛠️ - Ferramentas Utilizadas:
