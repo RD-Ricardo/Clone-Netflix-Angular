@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy:ghdocs" : "ng build --prod --output-path docs --base-href /Clone-Netflix-Angular/"
+    "deploy:ghdocs" : "ng build --prod --output-path docs --base-href /Clone-Netflix-Angular/netflix"
   },
   "private": true,
   "dependencies": {
