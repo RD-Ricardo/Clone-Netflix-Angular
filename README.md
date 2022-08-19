@@ -3,9 +3,9 @@
 
 🛠️ - Ferramentas Utilizadas:
 
--Angular:https://angular.io/
+-Angular: https://angular.io/
 
--Material:https://material.angular.io/components/icon/overview
+-Material: https://material.angular.io/components/icon/overview
 
 -Slick: https://kenwheeler.github.io/slick/
 
